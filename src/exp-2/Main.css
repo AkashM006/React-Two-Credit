@@ -1,0 +1,19 @@
+button {
+  padding: 1em;
+  padding-right: 2em;
+  padding-left: 2em;
+  border-radius: 0.7em;
+  border: 1px solid transparent;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+img {
+  background-color: black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  margin-bottom: 3rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
